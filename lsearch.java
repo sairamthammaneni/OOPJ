@@ -1,4 +1,3 @@
-
 //JAVA program to impliment linear search
 import java.util.Scanner;
  class search{
